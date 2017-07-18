@@ -7,9 +7,6 @@
 //
 
 #include <iostream>
-#include <queue>
-#include <utility>
-#include <algorithm>
 using namespace std;
 int win(int board[3][3], int player)
 {
